@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is and I am passionate about problem-solving!</p>
+            <p>Hello! My name is Michael and I am passionate about problem-solving!</p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
